@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <script src="lib/p5.min.js"></script>
+    <!-- <script src="lib/p5.dom.js"></script> -->
+
+    <script src="sketch.js"></script>
+
+    <!-- add extra scripts below -->
+    <script src="toolbox.js"></script>
+    <script src="colourPalette.js"></script>
+    <script src="helperFunctions.js"></script>
+
+    
+    <script src="freehandTool.js"></script>
+    <script src="lineToTool.js"></script>
+    <script src="mirrorDrawTool.js"></script>
+
+    <script src="sprayCanTool.js"></script>
+
+    <script src="eraserTool.js"></script>
+    <script src="rectangleTool.js"></script>
+    <script src="ellipseTool.js"></script>
+    <script src="stampingTool.js"></script>
+    <script src="editableTool.js"></script>
+    <script src="fillBucketTool.js"></script>
+    <script src="imageTool.js"></script>
+    <script src="textInputTool.js"></script>
+    <script src="confettiTool.js"></script>
+    
+    
+
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  	<div class="wrapper">
+      <div class="box header">Drawing App
+
+        <button id="clearButton" class="btns">Clear</button>
+        <button id="saveImageButton" class="btns">Save Image</button>
+      </div>
+      <div class="box" id="sidebar"></div>
+      <div id="content"></div>
+      <div class="colourPalette"></div>
+      <div class="box options" id="options"></div>
+	</div> 
+  </body>
+</html>
