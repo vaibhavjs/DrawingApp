@@ -11,7 +11,7 @@ P5.js is the popular Javascript library for creating artistic & creative applica
 Getting started with this project is as easy as it gets. There are a couple of options available as stated below :- <br>
 
 <ul>
-<li>First and the easiest way is to use this <a href="https://focused-morse-d9cbf0.netlify.app/">link</a> where I've deployed the whole project.</li>
+<li>First and the easiest way is to use this <a href="https://presentation-itp2.netlify.app/">link</a> where I've deployed the whole project.</li>
 
 <li>The second way consists of cloning the repository into your system & running the project on your local machine. For a step-by-step guide to this second method, kindly follow the steps given below :</li>
 <ul>
@@ -45,5 +45,9 @@ Getting started with this project is as easy as it gets. There are a couple of o
   <li>Strokes tool</li>
   <li>Spray can tool</li>
   <li>Post editable shapes using vectors</li>
+  <li>Fill bucket tool</li>
+  <li>Background image tool</li>
+  <li>Text input tool</>
+  <li>Confetti tool</li>
 </ul>
 
